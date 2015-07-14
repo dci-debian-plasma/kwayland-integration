@@ -1,0 +1,36 @@
+Source: kwayland-integration
+Section: kde
+Priority: optional
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Build-Depends: cmake (>= 2.8.12),
+               debhelper (>= 9),
+               extra-cmake-modules (>= 1.4.0),
+               kwayland-dev,
+               libkf5idletime-dev,
+               libkf5windowsystem-dev,
+               qtbase5-dev (>= 5.4.0~)
+Standards-Version: 3.9.6
+XS-Testsuite: autopkgtest
+Homepage: https://projects.kde.org/projects/kde/workspace/kwayland-integration
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/kwayland-integration.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kwayland-integration.git
+
+Package: kwayland-integration
+Architecture: any
+Multi-Arch: same
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: kwayland runtime integration plugins
+ Wayland runtime integration plugins for kidletime and kwindowsystem.
+ .
+ Contains development files for kwayland-integration.
+
+Package: kwayland-integration-dbg
+Section: debug
+Priority: extra
+Architecture: any
+Multi-Arch: same
+Depends: kwayland-integration (= ${binary:Version}), ${misc:Depends}
+Description: kwayland runtime integration plugins
+ Wayland runtime integration plugins for kidletime and kwindowsystem.
+ .
+ Contains debug symbols for kwayland-integration.
