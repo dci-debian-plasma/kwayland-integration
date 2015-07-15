@@ -8,6 +8,7 @@ Build-Depends: cmake (>= 2.8.12),
                kwayland-dev,
                libkf5idletime-dev,
                libkf5windowsystem-dev,
+               pkg-kde-tools,
                qtbase5-dev (>= 5.4.0~)
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/kde/workspace/kwayland-integration
