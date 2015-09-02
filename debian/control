@@ -5,12 +5,12 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
                extra-cmake-modules (>= 1.4.0),
-               kwayland-dev,
+               kwayland-dev (>= 4:5.4.0~),
                libkf5idletime-dev,
                libkf5windowsystem-dev,
+               pkg-kde-tools,
                qtbase5-dev (>= 5.4.0~)
 Standards-Version: 3.9.6
-XS-Testsuite: autopkgtest
 Homepage: https://projects.kde.org/projects/kde/workspace/kwayland-integration
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/kwayland-integration.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kwayland-integration.git
