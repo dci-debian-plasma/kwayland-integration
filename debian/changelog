@@ -1,20 +1,15 @@
+kwayland-integration (5.4.0-1~) UNRELEASED; urgency=medium
+
+  * Initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Sep 2015 23:53:48 +0200
+
 kwayland-integration (4:5.4.0-0ubuntu1) wily; urgency=medium
 
   * new upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 31 Aug 2015 15:52:07 +0100
 
-kwayland-integration (4:5.4.0) UNRELEASED; urgency=medium
-
-  [ Harald Sitter ]
-  * Initial release.
-
-  [ Maximiliano Curia ]
-  * New upstream release (5.4.0).
-  * New upstream release (5.4.0).
-  * New upstream release (5.4.0).
-
- -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Sep 2015 23:53:48 +0200
 kwayland-integration (4:5.3.95-0ubuntu2) wily; urgency=medium
 
   * Add kwayland-dev build-dep version
