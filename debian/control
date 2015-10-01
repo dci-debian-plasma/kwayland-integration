@@ -5,7 +5,7 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
                extra-cmake-modules (>= 1.4.0),
-               kwayland-dev (>= 4:5.4.1~),
+               kwayland-dev (>= 4:5.4.2~),
                libkf5idletime-dev,
                libkf5windowsystem-dev,
                pkg-kde-tools,
