@@ -1,8 +1,9 @@
-kwayland-integration (4:5.4.2-0ubuntu1) UNRELEASED; urgency=medium
+kwayland-integration (4:5.4.3-0ubuntu1) UNRELEASED; urgency=medium
 
   * Vivid backport
+  * New upstream bugfix release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 05 Oct 2015 11:47:16 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 09 Nov 2015 16:34:49 -0800
 
 kwayland-integration (4:5.4.2-0ubuntu1) wily; urgency=medium
 
