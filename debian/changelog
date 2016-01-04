@@ -6,6 +6,9 @@ kwayland-integration (4:5.5.2-0ubuntu1) UNRELEASED; urgency=medium
   [ Clive Johnston ]
   * new upstream release
 
+  [ Scarlett Clark ]
+  * Debian Merge: No remaining changes. 
+
  -- Clive Johnston <clivejo@aol.com>  Tue, 29 Dec 2015 17:45:27 +0000
 
 kwayland-integration (4:5.4.3-0ubuntu1) xenial; urgency=medium
@@ -30,6 +33,30 @@ kwayland-integration (4:5.4.1-0ubuntu1) wily; urgency=medium
   * new upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 08 Sep 2015 10:18:16 +0100
+
+kwayland-integration (5.4.3-1) unstable; urgency=medium
+
+  * New upstream release (5.4.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Dec 2015 11:46:11 +0100
+
+kwayland-integration (5.4.2-1) unstable; urgency=medium
+
+  * New upstream release (5.4.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 06 Oct 2015 07:52:16 +0200
+
+kwayland-integration (5.4.1-1) unstable; urgency=medium
+
+  * New upstream release (5.4.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 11 Sep 2015 18:45:30 +0200
+
+kwayland-integration (5.4.0-1) unstable; urgency=medium
+
+  * Initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 04 Sep 2015 01:31:27 +0200
 
 kwayland-integration (4:5.4.0-0ubuntu1) wily; urgency=medium
 
