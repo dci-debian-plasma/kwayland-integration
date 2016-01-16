@@ -2,28 +2,12 @@ kwayland-integration (4:5.5.3-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Scarlett Clark ]
   * New upstream release Xenial
+  * Debian merge, no remaining changes
 
   [ Clive Johnston ]
-  * new upstream release
   * New upstream release
 
-  [ Scarlett Clark ]
-  * Merge unstable to get debian merge in archive. 
-
  -- Clive Johnston <clivejo@aol.com>  Thu, 07 Jan 2016 17:57:06 +0000
-
-kwayland-integration (4:5.5.2-0ubuntu1) UNRELEASED; urgency=medium
-
-  [ Scarlett Clark ]
-  * New upstream release Xenial
-
-  [ Clive Johnston ]
-  * new upstream release
-
-  [ Scarlett Clark ]
-  * Debian Merge: No remaining changes. 
-
- -- Clive Johnston <clivejo@aol.com>  Tue, 29 Dec 2015 17:45:27 +0000
 
 kwayland-integration (4:5.4.3-0ubuntu1) xenial; urgency=medium
 
