@@ -1,8 +1,10 @@
-kwayland-integration (5.5.5-1~) UNRELEASED; urgency=medium
+kwayland-integration (5.6.2-1~1.gbpb78063) UNRELEASED; urgency=medium
 
-  * New upstream release (5.5.5).
+  ** SNAPSHOT build @b780637d39bbd60b1a95e068daf606dca19bdd79 **
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Mar 2016 17:29:32 +0100
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 06 Apr 2016 23:14:13 +0200
 
 kwayland-integration (5.5.4-1) experimental; urgency=medium
 
