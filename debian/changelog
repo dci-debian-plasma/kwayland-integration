@@ -1,10 +1,23 @@
-kwayland-integration (5.6.2-1~1.gbpb78063) UNRELEASED; urgency=medium
+kwayland-integration (5.6.2-1~2.gbp45504f) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @45504f5219d9f082c7ee111a79aff44c0e4a69d3 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @b780637d39bbd60b1a95e068daf606dca19bdd79 **
 
   * UNRELEASED
+  * uscan no longer supports this kind of watch files.
+  * New upstream release (5.5.5).
+  * Force installing in debian/tmp
+  * Automatic update with ddeb_migration3.py
+  * Add upstream metadata (DEP-12)
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 06 Apr 2016 23:14:13 +0200
+  [ Automatic packaging ]
+  * Update changelog for 5.6.2-1~1.gbpb78063 release
+
+  [ Maximiliano Curia ]
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 08 Apr 2016 16:09:11 +0200
 
 kwayland-integration (5.5.4-1) experimental; urgency=medium
 
