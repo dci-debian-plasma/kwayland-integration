@@ -1,6 +1,6 @@
-kwayland-integration (5.6.2-1~2.gbp45504f) UNRELEASED; urgency=medium
+kwayland-integration (5.6.3-1~1.gbp795965) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @45504f5219d9f082c7ee111a79aff44c0e4a69d3 **
+  ** SNAPSHOT build @79596519521826076d6a16e78e98254ac0343974 **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @b780637d39bbd60b1a95e068daf606dca19bdd79 **
@@ -14,10 +14,11 @@ kwayland-integration (5.6.2-1~2.gbp45504f) UNRELEASED; urgency=medium
 
   [ Automatic packaging ]
   * Update changelog for 5.6.2-1~1.gbpb78063 release
+  * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 08 Apr 2016 16:09:11 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 19 Apr 2016 18:14:10 +0200
 
 kwayland-integration (5.5.4-1) experimental; urgency=medium
 
