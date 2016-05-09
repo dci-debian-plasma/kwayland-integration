@@ -1,6 +1,6 @@
-kwayland-integration (5.6.3-1~1.gbp795965) UNRELEASED; urgency=medium
+kwayland-integration (5.6.3-1~2.gbp760183) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @79596519521826076d6a16e78e98254ac0343974 **
+  ** SNAPSHOT build @760183fa7f2147860ffa2a28b6d99937e361a815 **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @b780637d39bbd60b1a95e068daf606dca19bdd79 **
@@ -11,6 +11,7 @@ kwayland-integration (5.6.3-1~1.gbp795965) UNRELEASED; urgency=medium
   * Force installing in debian/tmp
   * Automatic update with ddeb_migration3.py
   * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
 
   [ Automatic packaging ]
   * Update changelog for 5.6.2-1~1.gbpb78063 release
@@ -18,7 +19,7 @@ kwayland-integration (5.6.3-1~1.gbp795965) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 19 Apr 2016 18:14:10 +0200
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:14:14 +0200
 
 kwayland-integration (5.5.4-1) experimental; urgency=medium
 
