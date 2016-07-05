@@ -1,3 +1,11 @@
+kwayland-integration (5.7.0-1~1.gbpa2b869) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @a2b869a5407a31277f668cf6f18483f3c5b907e1 **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 05 Jul 2016 18:14:09 +0200
+
 kwayland-integration (5.6.5-1) unstable; urgency=medium
 
   * New upstream release.
