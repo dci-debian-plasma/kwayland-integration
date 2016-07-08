@@ -1,6 +1,6 @@
-kwayland-integration (5.7.0-1~2.gbpb17df2) UNRELEASED; urgency=medium
+kwayland-integration (5.7.0-1~3.gbpd24d14) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @b17df226fab312ab2eb5fecd1de3de5ee833903d **
+  ** SNAPSHOT build @d24d1487cca38641e4c5f78438d7da9cfb5d75f4 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @a2b869a5407a31277f668cf6f18483f3c5b907e1 **
@@ -9,8 +9,9 @@ kwayland-integration (5.7.0-1~2.gbpb17df2) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * Add missing qtwayland platform plugin, needed for the test
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 08 Jul 2016 15:29:36 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 08 Jul 2016 16:09:25 +0200
 
 kwayland-integration (5.6.5-1) unstable; urgency=medium
 
