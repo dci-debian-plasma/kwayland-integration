@@ -7,3 +7,7 @@ override_dh_auto_install:
 
 override_dh_strip:
 	$(overridden_command) --dbgsym-migration='kwayland-integration-dbg (<= 5.5.5-1~~)'
+
+override_dh_auto_test:
+	# Disable auto tests at build time
+	:
