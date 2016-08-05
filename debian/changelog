@@ -1,11 +1,12 @@
-kwayland-integration (5.7.2-1~1.gbp65ce8f) UNRELEASED; urgency=medium
+kwayland-integration (5.7.3-1~1.gbp4ea693) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @65ce8f5074b7e6ad0ef0158c7345d74247677e1b **
+  ** SNAPSHOT build @4ea693c7cf0637266e72161ccd52dfc9372c059c **
 
   * UNRELEASED
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 19 Jul 2016 18:14:12 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 05 Aug 2016 13:05:40 +0200
 
 kwayland-integration (5.7.0-1) unstable; urgency=medium
 
