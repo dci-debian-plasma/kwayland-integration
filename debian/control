@@ -20,8 +20,9 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/plasma/kwayland-integration.git
 Package: kwayland-integration
 Architecture: any
 Multi-Arch: same
-Depends: ${misc:Depends}, ${shlibs:Depends}, qtwayland5
+Depends: qtwayland5, ${misc:Depends}, ${shlibs:Depends}
 Description: kwayland runtime integration plugins
  Wayland runtime integration plugins for kidletime and kwindowsystem.
  .
  Contains development files for kwayland-integration.
+Breaks: kwin-wayland (<< 4:5.7), plasma-workspace-wayland (<< 4:5.7)
