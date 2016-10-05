@@ -1,6 +1,6 @@
-kwayland-integration (5.8.0-1~1.gbp957f97) UNRELEASED; urgency=medium
+kwayland-integration (5.8.0-1~2.gbp963ac2) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @957f97af965f2909b0e6139895f2e445f56cfc63 **
+  ** SNAPSHOT build @963ac272cf1dd8f0477f3adf672d5e8590d04f6f **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @5fcaf96320b36c6c37ceedf7c150dc683312e043 **
@@ -9,8 +9,9 @@ kwayland-integration (5.8.0-1~1.gbp957f97) UNRELEASED; urgency=medium
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 04 Oct 2016 13:38:43 +0200
+ -- Automatic packaging <jenkins@gnuservers.com.ar>  Wed, 05 Oct 2016 20:14:29 +0200
 
 kwayland-integration (5.7.4-1) unstable; urgency=medium
 
