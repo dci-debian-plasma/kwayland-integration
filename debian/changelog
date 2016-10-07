@@ -1,17 +1,13 @@
-kwayland-integration (5.8.0-1~2.gbp963ac2) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @963ac272cf1dd8f0477f3adf672d5e8590d04f6f **
+kwayland-integration (5.8.0-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @5fcaf96320b36c6c37ceedf7c150dc683312e043 **
-
-  * UNRELEASED
+  * New upstream release (5.8.0)
+  * Bump group breaks (5.8)
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
-  * UNRELEASED
 
- -- Automatic packaging <jenkins@gnuservers.com.ar>  Wed, 05 Oct 2016 20:14:29 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 07 Oct 2016 14:04:32 +0200
 
 kwayland-integration (5.7.4-1) unstable; urgency=medium
 
