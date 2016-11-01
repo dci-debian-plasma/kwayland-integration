@@ -1,3 +1,11 @@
+kwayland-integration (5.8.3-1~1.gbpa78456) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @a78456c63b29c464427ef6a003d4c52ba3a437d0 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 01 Nov 2016 17:14:14 +0100
+
 kwayland-integration (5.8.2-1) unstable; urgency=medium
 
   * New upstream release (5.8.2)
