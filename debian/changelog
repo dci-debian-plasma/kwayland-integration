@@ -1,11 +1,8 @@
-kwayland-integration (5.8.4-1~1.gbp88aea6) UNRELEASED; urgency=medium
+kwayland-integration (5.8.4-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @88aea6f81060177a2b93e09ac49bca83ba200605 **
+  * New upstream release (5.8.4)
 
-  * UNRELEASED
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 22 Nov 2016 18:14:44 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 18:36:45 +0100
 
 kwayland-integration (5.8.2-1) unstable; urgency=medium
 
