@@ -25,4 +25,4 @@ Description: kwayland runtime integration plugins
  Wayland runtime integration plugins for kidletime and kwindowsystem.
  .
  Contains development files for kwayland-integration.
-Breaks: kwin-wayland (<< 4:5.8), plasma-workspace-wayland (<< 4:5.8)
+Breaks: kwin-wayland (<< 4:5.10), plasma-workspace-wayland (<< 4:5.10)
