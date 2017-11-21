@@ -27,7 +27,7 @@ Description: kwayland runtime integration plugins
 
 Package: kwayland-integration-dbg
 Section: debug
-Priority: extra
+Priority: optional
 Architecture: any
 Multi-Arch: same
 Depends: kwayland-integration (= ${binary:Version}), ${misc:Depends}
@@ -35,3 +35,4 @@ Description: kwayland runtime integration plugins
  Wayland runtime integration plugins for kidletime and kwindowsystem.
  .
  Contains debug symbols for kwayland-integration.
+
